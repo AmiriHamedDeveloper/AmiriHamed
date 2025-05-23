@@ -1,3 +1,50 @@
+👋 Hi! I'm Hamed Amiri
+
+🎯 Embedded & Vision Developer | C++ | Qt/QML | OpenCV | GStreamer | Embedded Linux
+
+🧑‍💻 About Me
+
+I'm an Embedded Systems and Computer Vision developer with over 3 years of experience designing and deploying industrial-grade projects. I specialize in cross-platform UI development with Qt/QML, real-time video processing with OpenCV, and embedded system deployment on Jetson TX2 and similar platforms.
+
+🔧 Skills
+
+Languages: C, C++, Python, Bash
+
+Embedded: Yocto, Linux Kernel, STM32, UART/SPI/I2C
+
+UI: Qt 5.12+, QML, Multithreading
+
+Vision: OpenCV, GStreamer, FFmpeg
+
+Tools: Git, CMake, gdb, Valgrind, systemd
+
+📁 Highlighted Projects
+
+🎛️ Qt Camera Control GUI
+
+Cross-platform application to control IP/USB camera parameters such as exposure, resolution, and live streaming — built using Qt/QML.
+
+📡 Jetson TX2 RTSP Streamer
+
+Real-time video streaming system using GStreamer + OpenCV on Yocto-based Linux running on Jetson TX2.
+
+🧪 Embedded Diagnostics Tool
+
+Tool for monitoring sensors via UART/I2C with both CLI and GUI interface. Supports runtime configuration saving using QSettings.
+
+📬 Contact Me
+
+📧 Email: amirihamed.developer@gmail.com
+
+🔗 GitHub: github.com/AmiriHamedDeveloper
+
+🌱 Looking for exciting opportunities in Embedded Vision, Robotics, and Edge AI.
+
+Thanks for visiting my profile! 🙌
+
+
+
+
 # AmiriHamed
 📡 Developer in Embedded Vision | Qt/QML, C++, OpenCV, Jetson | Projects &amp; Resume
 
